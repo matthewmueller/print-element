@@ -11,5 +11,10 @@
     "url": "git://github.com/MatthewMueller/print-element.git"
   },
   "author": "Matthew Mueller",
-  "license": "MIT"
+  "license": "MIT",
+  "component": {
+    "scripts": {
+      "print-element/index.js": "index.js"
+    }
+  }
 }
