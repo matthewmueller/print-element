@@ -1,0 +1,14 @@
+{
+  "name": "print-element",
+  "repo": "matthewmueller/print-element",
+  "description": "simply print out element name, class name, id if present",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
