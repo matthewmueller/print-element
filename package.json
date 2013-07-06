@@ -1,11 +1,8 @@
 {
   "name": "print-element",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "print an element",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/MatthewMueller/print-element.git"
@@ -14,7 +11,7 @@
   "license": "MIT",
   "component": {
     "scripts": {
-      "print-element/index.js": "index.js"
+      "print-element": "index.js"
     }
   }
 }

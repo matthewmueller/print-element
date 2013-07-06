@@ -2,7 +2,7 @@
   "name": "print-element",
   "repo": "matthewmueller/print-element",
   "description": "simply print out element name, class name, id if present",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [],
   "dependencies": {},
   "development": {},
