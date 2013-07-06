@@ -12,7 +12,7 @@ module.exports = print;
  */
 
 function print(el) {
-  if (1 != el.nodeType) throw Error('Expecting an element node');
+  if (1 != el.nodeType && window != el) throw Error('Expecting an element node');
   var tagName = el.tagName.toLowerCase();
   var className = el.className.replace(/\s+/g, '.');
   var id = el.id;
